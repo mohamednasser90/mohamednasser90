@@ -20,7 +20,7 @@
 - 👨‍💻 Check out my portfolio at https://MohamedNasser.netlify.app/ to see some of the projects I've worked on.
 
 
-<h3 align="center">.Net developer from Egypt</h3>
+<!--<h3 align="center">.Net developer from Egypt</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednasser90&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednasser90" /> </p>
 
