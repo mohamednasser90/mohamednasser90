@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nasser Mohamed Abdalla</h1>
+
+Welcome to Yousef Dergham's profile! 
+
+
+🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+
 <h3 align="center">.Net developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednasser90&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednasser90" /> </p>
