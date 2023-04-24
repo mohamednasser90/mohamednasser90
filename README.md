@@ -14,11 +14,16 @@
 </p> 
 
 - 🏢 I'm a Software Engineer @Najran Municipality
+- 🔭 I’m currently working @ **2P Company (Perfect Presentation)**
+- 🌱 I’m currently learning **DevOps**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with DotNet, JavaScript, Angular, and NodeJS, or anything related to web development.
+- 💬 Ask me about **asp.net webforms ,MVC ,Core ,Python , JavaScript, Angular, and NodeJS, or anything related to web development.**
+- 📫 How to reach me **eng.mohamednasser90@gmail.com**
+- 📄 Know about my experiences and download my CV [https://drive.google.com/file/d/1qNUApRZoETdtRONjx31U6jUA2BaBTZ4B/view?usp=sharing](https://drive.google.com/file/d/1qNUApRZoETdtRONjx31U6jUA2BaBTZ4B/view?usp=sharing)
+<!--
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://MohamedNasser.netlify.app/ to see some of the projects I've worked on.
-
+-->
 
 <!--<h3 align="center">.Net developer from Egypt</h3>-->
 
@@ -28,15 +33,9 @@
 
 <p align="left"> <a href="https://twitter.com/mizosoft1" target="blank"><img src="https://img.shields.io/twitter/follow/mizosoft1?logo=twitter&style=for-the-badge" alt="mizosoft1" /></a> </p>
 
-- 🔭 I’m currently working on **2P Company (Perfect Presentation)**
 
-- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **asp.net webforms ,MVC ,Core ,Python**
 
-- 📫 How to reach me **eng.mohamednasser90@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qNUApRZoETdtRONjx31U6jUA2BaBTZ4B/view?usp=sharing](https://drive.google.com/file/d/1qNUApRZoETdtRONjx31U6jUA2BaBTZ4B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
