@@ -14,10 +14,10 @@
 </p> 
 
 - 🏢 I'm a Software Engineer @Najran Municipality
-- 🔭 I’m currently working @ **2P Company (Perfect Presentation)**
+- 🔭 I’m currently working @ **Stc Solutions Company (SDAIA Client)**
 - 🌱 I’m currently learning **DevOps**
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about **asp.net webforms ,MVC ,Core ,Python , JavaScript, Angular, and NodeJS, or anything related to web development.**
+- 💬 Ask me about **>net Core, NodeJs,asp.net webforms ,MVC ,Core ,Python , JavaScript, Angular, and NodeJS, or anything related to web development.**
 - 📫 How to reach me **eng.mohamednasser90@gmail.com**
 - 📄 Know about my experiences and download my CV [https://drive.google.com/file/d/1qNUApRZoETdtRONjx31U6jUA2BaBTZ4B/view?usp=sharing](https://drive.google.com/file/d/1qNUApRZoETdtRONjx31U6jUA2BaBTZ4B/view?usp=sharing)
 <!--
